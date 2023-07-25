@@ -17,7 +17,7 @@
 using namespace sf;
 using namespace std;
 
-const char title[] = "OOP-Project, Spring-2023";
+const char title[] = "Space Shooter";
 
 class Game
 {
