@@ -5,6 +5,7 @@
 * g++ -c main.cpp
 * g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 * ./sfml-app
+* Class Diagram is also attached, for better understanding of code, and functionality of each _Class_
 
 ## Menu of Game
 
